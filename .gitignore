@@ -1,2 +1,3 @@
 MEDALLION/
-secrets.toml
+.secrets/
+assets/
